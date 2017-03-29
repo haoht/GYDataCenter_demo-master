@@ -1,0 +1,17 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - GYDataCenter (0.1.0):
+    - FMDB
+
+DEPENDENCIES:
+  - GYDataCenter
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  GYDataCenter: 0047543858b445b410c934096e1422dd5316d7a2
+
+PODFILE CHECKSUM: 7a6cc8f25eeae62dd993a39c9669abe11eb72e72
+
+COCOAPODS: 1.0.1
